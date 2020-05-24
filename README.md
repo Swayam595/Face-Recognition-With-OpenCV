@@ -9,6 +9,12 @@
 
 DeepFace is a deep learning facial recognition system created by a research group in Facebook Labs. It identifies human faces in digital images. It employs a nine-layer neural network with over 120 million connection weights and was trained on four million images uploaded by Facebook users. This paper shows the implementation of DeepFace and evaluate its performance on images, video and live stream from USB camera. 
 
+Output of Face Recognition On Image file:
+<img src="https://github.com/Swayam595/Face-Recognition-With-OpenCV/blob/master/Test1.png" />
+
+Output of Face Recognition On Video file:
+<img src="https://github.com/Swayam595/Face-Recognition-With-OpenCV/blob/master/Test2.png" />
+
 Read Me –
 1.  Files –
     1.  dataset – (contains images for training)
