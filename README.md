@@ -8,13 +8,13 @@
 </h3>
 
 Read Me –
-1.	Files –
-  1.	dataset – (contains images for training)
-    1.	swayam – 6 images
-    2.	bill gates – 8 images
-    3.	steve jobs – 7 images
-    4.	unknown – 5 images
-  2.	image_test – contains images of people for training.
+1.  Files –
+    1.  dataset – (contains images for training)
+        1.  swayam – 6 images
+        2.	bill gates – 8 images
+        3.	steve jobs – 7 images
+        4.	unknown – 5 images
+    2.	image_test – contains images of people for training.
   3.	video_test – contains images of people for testing.
   4.	face_detection_model
     1.	deploy.protxt
