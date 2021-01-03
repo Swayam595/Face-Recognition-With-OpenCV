@@ -58,7 +58,7 @@ Read Me –
     8.	Pickle
     9.	Scikit Learn
     10.	dlib
-3.	Steps to run digit recognition –
+3.	Steps to run face recognition –
     1.  Download all the files into the same directory.
     2.	In the terminal run the following scripts from top to down:
         1.	 If having more than two python version installed in your system (Mac Users) – 
